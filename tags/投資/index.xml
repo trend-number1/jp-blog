@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>投資 on テックインサイト ジャパン</title><link>https://trend-number1.github.io/jp-blog/tags/%E6%8A%95%E8%B3%87/</link><description>Recent content in 投資 on テックインサイト ジャパン</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 11 Mar 2026 21:45:00 +0900</lastBuildDate><atom:link href="https://trend-number1.github.io/jp-blog/tags/%E6%8A%95%E8%B3%87/index.xml" rel="self" type="application/rss+xml"/><item><title>CPI（消費者物価指数）完全ガイド｜経済指標の読み方と投資への活かし方</title><link>https://trend-number1.github.io/jp-blog/posts/2026-03-11-keizai-shihyou-cpi/</link><pubDate>Wed, 11 Mar 2026 21:45:00 +0900</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-03-11-keizai-shihyou-cpi/</guid><description>&lt;p>&lt;strong>「物価が上がっている気がする」――その&amp;quot;感覚&amp;quot;を数字で裏付ける指標が、CPIです。&lt;/strong>&lt;/p>
+&lt;p>2025年、日本のCPIは前年比で約2.7%の上昇を記録しました。食料品やエネルギー価格の高騰を肌で感じている方も多いでしょう。しかし、&lt;strong>経済指標としてのCPIを正しく読み解ける人は意外と少ない&lt;/strong>のが現実です。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>要点まとめ&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>CPIは「消費者が実際に支払う価格」の変動を測る最重要インフレ指標&lt;/li>
+&lt;li>日銀の物価目標は&lt;strong>CPI前年比+2%&lt;/strong>、政策金利に直結する&lt;/li>
+&lt;li>コアCPI・コアコアCPIなど種類があり、見るべき数字が異なる&lt;/li>
+&lt;li>FRBはPCEデフレーターを重視するが、CPIも市場を大きく動かす&lt;/li>
+&lt;li>投資判断では「予想値との乖離」がカギになる&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h2 id="cpi消費者物価指数とは何か">CPI（消費者物価指数）とは何か&lt;/h2>
+&lt;p>CPIとは &lt;strong>Consumer Price Index&lt;/strong> の略で、総務省が毎月公表する経済指標です。全国約500品目の価格を調査し、基準年を100として指数化します。&lt;/p>
+&lt;p>わかりやすく言えば、&lt;strong>私たちの「買い物かご」の値段が先月・去年と比べてどう変わったか&lt;/strong>を示す数字です。&lt;/p>
+&lt;p>CPIが上昇すればインフレ、下落すればデフレの兆候と判断されます。日銀が金融政策を決める際、最も注視する指標の一つです。&lt;/p>
+&lt;p>では、CPIにはどんな種類があるのでしょうか。&lt;/p>
+&lt;h2 id="3つのcpiの違いを比較表で理解する">3つのCPIの違いを比較表で理解する&lt;/h2>
+&lt;p>CPIには複数の種類があり、それぞれ見ている範囲が異なります。&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>指標名&lt;/th>
+ &lt;th>対象範囲&lt;/th>
+ &lt;th>特徴&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>総合CPI&lt;/strong>&lt;/td>
+ &lt;td>全品目&lt;/td>
+ &lt;td>生活実感に近いが変動が大きい&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>コアCPI&lt;/strong>&lt;/td>
+ &lt;td>生鮮食品を除く&lt;/td>
+ &lt;td>日銀が最も重視する指標&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>コアコアCPI&lt;/strong>&lt;/td>
+ &lt;td>食料・エネルギーを除く&lt;/td>
+ &lt;td>基調的な物価動向を把握しやすい&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>よくある誤解として「CPIが高い＝景気が良い」と考える方がいますが、これは正確ではありません。&lt;strong>コストプッシュ型のインフレ&lt;/strong>（原材料高による物価上昇）は、むしろ家計を圧迫し消費を冷やします。&lt;/p>
+&lt;p>2024年から2025年にかけて日本が経験したのは、まさにこのパターンでした。重要なのは&lt;strong>CPIの「中身」を分解して読むこと&lt;/strong>です。&lt;/p>
+&lt;h2 id="日銀frbの政策とcpiの深い関係">日銀・FRBの政策とCPIの深い関係&lt;/h2>
+&lt;p>&lt;strong>日銀は2013年から「CPI前年比+2%」を物価安定の目標に掲げています。&lt;/strong> この数字を上回るか下回るかで、金利政策の方向性が大きく変わります。&lt;/p>
+&lt;p>2024年3月、日銀はマイナス金利政策を解除しました。その判断根拠の一つが、CPIの持続的な上昇トレンドです。&lt;/p>
+&lt;p>一方、米国の&lt;strong>FRB（連邦準備制度理事会）&lt;/strong> はPCEデフレーターを政策判断の中心に据えていますが、毎月のCPI発表時には米国株・為替が大きく反応します。2024年には、CPI発表直後に&lt;strong>ドル円が1日で2円以上動いた場面&lt;/strong>もありました。&lt;/p>
+&lt;p>ここで押さえておきたいポイントがあります。市場が反応するのは**CPIの絶対値ではなく、事前予想との「ズレ」**です。予想より0.1%高いだけでも、株価や為替は大きく動きます。&lt;/p>
+&lt;h2 id="cpiを投資判断に活かす3つの実践テクニック">CPIを投資判断に活かす3つの実践テクニック&lt;/h2>
+&lt;p>経済指標を「読むだけ」で終わらせず、実際の行動に結びつける方法を紹介します。&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>発表スケジュールを把握する&lt;/strong> ── 日本は毎月19日頃、米国は毎月第2週に発表。事前にポジション管理をしておく&lt;/li>
+&lt;li>&lt;strong>予想値と結果の差に注目する&lt;/strong> ── Bloomberg等のコンセンサス予想を事前にチェックし、乖離幅を分析する&lt;/li>
+&lt;li>&lt;strong>コアCPIのトレンドを追う&lt;/strong> ── 単月の数字ではなく、3か月・6か月の移動平均で基調を判断する&lt;/li>
+&lt;/ol>
+&lt;p>特に3番目は重要です。&lt;strong>プロのエコノミストほど単月の数字に一喜一憂せず、トレンドの変化点を探ります。&lt;/strong> この視点を持つだけで、ニュースの見え方が変わるはずです。&lt;/p>
+&lt;h2 id="まとめcpiを自分ごとにする">まとめ：CPIを「自分ごと」にする&lt;/h2>
+&lt;p>経済指標・CPIは、一見すると遠い世界の数字に思えます。しかし実際には、住宅ローン金利、預金利息、日々の食費に直結する&lt;strong>最も身近な経済指標&lt;/strong>です。&lt;/p>
+&lt;p>まずは月に一度、総務省の発表をチェックする習慣をつけてみてください。「物価が上がった・下がった」のニュースを聞いたとき、&lt;strong>その背景にある構造が見える&lt;/strong>ようになります。&lt;/p>
+&lt;p>あなたは次回のCPI発表をチェックしますか？ まずはスマートフォンのカレンダーに「CPI発表日」を登録するところから始めてみましょう。&lt;/p></description></item></channel></rss>
