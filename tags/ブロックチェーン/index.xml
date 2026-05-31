@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ブロックチェーン on トレンドインサイト</title><link>https://trend-number1.github.io/jp-blog/tags/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3/</link><description>Recent content in ブロックチェーン on トレンドインサイト</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 31 May 2026 18:04:32 +0000</lastBuildDate><atom:link href="https://trend-number1.github.io/jp-blog/tags/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3/index.xml" rel="self" type="application/rss+xml"/><item><title>リップル徹底解説2026｜XRP現物ETF承認と機関投資家参入の全貌</title><link>https://trend-number1.github.io/jp-blog/posts/2026-05-31-ritsupuru/</link><pubDate>Sun, 31 May 2026 18:04:32 +0000</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-05-31-ritsupuru/</guid><description>&lt;p>長年「規制リスクの代名詞」だった&lt;strong>リップル（XRP）が、2026年に入り完全に景色を変えた&lt;/strong>ことをご存じだろうか。米SECとCFTCが共同でXRPを「デジタルコモディティ」に分類し、わずか数か月の間に6本の現物ETFが正式承認された。日本では東北銀行までもがリップル技術の活用を検討するなど、実需と制度面の両輪が一気に回り始めている。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>要点まとめ&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>2026年3月、SEC・CFTCがXRPを&lt;strong>デジタルコモディティ&lt;/strong>として分類、Bitwise・Franklin Templeton（XRPZ）・Grayscale等による&lt;strong>6本の現物ETF&lt;/strong>が正式承認&lt;/li>
+&lt;li>Ondo・リップル・JPモルガンが2026年5月、&lt;strong>初のトークン化米国債の国際決済&lt;/strong>に成功&lt;/li>
+&lt;li>リップル社は&lt;strong>10億ドル規模のXRPトレジャリー調達&lt;/strong>を主導、Ripple Primeは2億ドルの融資枠を確保&lt;/li>
+&lt;li>XRP Ledgerはv3.1.3でNFT・Vault・レンディングを修正、次期v3.2.0で「rippled」を**「xrpld」へ改称**&lt;/li>
+&lt;li>2025〜2028年の&lt;strong>量子耐性ロードマップ&lt;/strong>を策定、AIによる継続的脆弱性検出も導入&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>本記事では、最新ニュースを整理しながら、リップルが「投機の対象」から「金融インフラ」へと変わりつつある現状を5つの視点で読み解いていく。&lt;/p>
+&lt;h2 id="sec訴訟終結とxrp現物etf承認制度面の決着">SEC訴訟終結とXRP現物ETF承認──制度面の決着&lt;/h2>
+&lt;p>リップルにとって最大の重しだった米SECとの訴訟は、**2023年7月の一部判決で「XRPトークン自体は有価証券ではない」**との判断が示されて以降、徐々に解消へ向かった。2025年後半から2026年にかけてはSEC側が控訴を取り下げる動きを見せ、法的リスクは大幅に軽減された。&lt;/p>
+&lt;p>決定的だったのは&lt;strong>2026年3月&lt;/strong>だ。SECとCFTCが共同でXRPを**「デジタルコモディティ」として分類&lt;strong>し、Bitwise、Franklin Templeton（ティッカー：XRPZ）、Grayscaleなどによる&lt;/strong>XRP現物ETF6本が正式承認**された。これにより機関投資家が規制上のグレーゾーンを気にせずXRPへエクスポージャーを取れる環境が整った。&lt;/p>
+&lt;p>ビットコイン現物ETFが2024年に巨額の資金流入を生んだことを思い出してほしい。XRPは時価総額ランキング上位の常連であり、同じパターンの再現を市場は織り込みつつある。「規制で叩かれる通貨」というレッテルは、もはや過去のものだ。&lt;/p>
+&lt;p>では、制度が整った上で&lt;strong>実際の金融機関がどう動いているのか&lt;/strong>──次のセクションで見ていこう。&lt;/p>
+&lt;h2 id="機関採用と国際決済の最前線ondojpモルガン連携の意味">機関採用と国際決済の最前線──Ondo・JPモルガン連携の意味&lt;/h2>
+&lt;p>2026年5月7日、暗号資産業界に衝撃が走った。&lt;strong>Ondo・リップル・JPモルガンが「初のトークン化米国債の国際決済」に成功した&lt;/strong>のだ。トークン化された実物資産（RWA）が、伝統的金融の巨人JPモルガンを介して国境を越えて決済された事実は、リップルの方向性を象徴している。&lt;/p>
+&lt;p>リップル社の動きをまとめると、戦略の輪郭がはっきり見える。&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>領域&lt;/th>
+ &lt;th>具体的な動き&lt;/th>
+ &lt;th>想定インパクト&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>カストディ&lt;/td>
+ &lt;td>「Ripple Custody」商標申請、機関向け保管事業を本格化&lt;/td>
+ &lt;td>銀行・運用会社のXRP組み入れを後押し&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ステーブルコイン&lt;/td>
+ &lt;td>米ドル連動の&lt;strong>RLUSD&lt;/strong>を発行・活用拡大&lt;/td>
+ &lt;td>クロスボーダー送金の決済通貨を補完&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>トレジャリー&lt;/td>
+ &lt;td>&lt;strong>10億ドル規模のXRPトレジャリー調達&lt;/strong>を主導と報道&lt;/td>
+ &lt;td>エコシステムへの資本流入&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>融資基盤&lt;/td>
+ &lt;td>Ripple Primeが&lt;strong>ニューバーガー運用ファンドから最大2億ドルの融資枠&lt;/strong>確保&lt;/td>
+ &lt;td>機関取引の流動性供給&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>銀行ライセンス&lt;/td>
+ &lt;td>米国での銀行ライセンス取得を視野&lt;/td>
+ &lt;td>既存金融との統合加速&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>日本国内でも動きは活発だ。SBIホールディングスはリップル社の&lt;strong>オンデマンド流動性（ODL／現Ripple Payments）&lt;strong>の強力な支援者であり、SBIグループCEOの北尾吉孝氏は国際送金におけるXRPの有用性を繰り返し公言してきた。さらに2026年5月には&lt;/strong>東北銀行がリップル技術の活用を検討している&lt;/strong>との報道も流れ、地方銀行レベルへの浸透が現実味を帯びている。&lt;/p>
+&lt;p>英国のSantander、カナダのCIBC、インドのKotak Mahindra、ブラジルのItaú Unibancoなど、世界中の金融機関がリップルとパートナーシップを結んでいる。&lt;strong>SWIFTの代替&lt;/strong>としての位置取りが、いよいよ実需フェーズに入った。&lt;/p>
+&lt;p>ここまで「外側」の話を見てきたが、肝心の&lt;strong>XRP Ledger自体のアップデート&lt;/strong>も並行して進んでいる。次に技術面を整理する。&lt;/p>
+&lt;h2 id="xrp-ledgerの進化v313バグ修正とxrpld改称">XRP Ledgerの進化──v3.1.3バグ修正と「xrpld」改称&lt;/h2>
+&lt;p>ネットワークの土台は地味だが本質的だ。2026年5月、&lt;strong>XRP Ledger v3.1.3&lt;/strong>として「fixCleanup3_1_3」が導入された。これはノード運営者必須のアップグレードで、以下を含む複数の重要な修正が施された。&lt;/p>
+&lt;ul>
+&lt;li>期限切れNFTオファーが残存する問題の解消&lt;/li>
+&lt;li>許可制ドメインのセキュリティ強化&lt;/li>
+&lt;li>Vault資産の引き出し制限に関する修正&lt;/li>
+&lt;li>ネイティブレンディングプロトコルの会計エラー修正&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>2026年5月27日までにアップグレードしなかったノードはネットワークから排除&lt;/strong>され、コンセンサスの整合性が保たれた。一般保有者はウォレットや取引に影響なく、対応不要だ。&lt;/p>
+&lt;p>さらに次期バージョン&lt;strong>v3.2.0&lt;/strong>の開発も始まっている。最大の変更点は、コアサーバーソフトウェアの名称が**「rippled」から「xrpld」へ改称**されることだ。これは「リップル社が支配する台帳」から「独立した成熟インフラ」への象徴的な転換を意味する。&lt;/p>
+&lt;p>「メジャー金融機関の決済基盤に耐えうるか」──この問いに対し、リップルはAIと量子という2つの未来技術で答えようとしている。&lt;/p>
+&lt;h2 id="ai監視と量子耐性未来の脅威への先回り">AI監視と量子耐性──未来の脅威への先回り&lt;/h2>
+&lt;p>2026年3月、リップルは&lt;strong>XRPL開発全体にAIを導入&lt;/strong>する大規模な方針転換を発表した。提案された修正案で重大なバグが見つかったことを受けた対応で、具体的には以下が組み込まれる。&lt;/p>
+&lt;ul>
+&lt;li>**AI支援の「レッドチーム」**がコードベースを常時スキャンし脆弱性を検出&lt;/li>
+&lt;li>新機能の&lt;strong>自動脅威モデリング&lt;/strong>&lt;/li>
+&lt;li>すべてのコード変更に対する&lt;strong>AIレビュー&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>機関投資家やカストディアンが求める「銀行水準のセキュリティ」を、技術的に裏付けようという意図が明確だ。&lt;/p>
+&lt;p>さらに&lt;strong>2025〜2028年にかけて量子耐性ロードマップ&lt;/strong>が策定された。将来の量子コンピュータによる暗号解読リスクに備え、XRP Ledgerを段階的に量子耐性化していく長期計画である。「&lt;strong>まだ問題化していないリスクに先回りする&lt;/strong>」という姿勢は、長期保有者にとって安心材料だろう。&lt;/p>
+&lt;p>CBDC（中央銀行デジタル通貨）の発行基盤としてXRP Ledgerを採用するプロジェクトも世界各国で進行中で、国家レベルの採用は&lt;strong>XRPのユーティリティを決定づける要因&lt;/strong>になる可能性がある。&lt;/p>
+&lt;p>ここまで読んで、「結局のところ自分にとって何を意味するのか？」と感じている読者もいるはずだ。最後に投資家・利用者目線で整理する。&lt;/p></description></item></channel></rss>
