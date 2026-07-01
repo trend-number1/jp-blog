@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>テクノロジー on トレンドインサイト</title><link>https://trend-number1.github.io/jp-blog/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link><description>Recent content in テクノロジー on トレンドインサイト</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 01 Jul 2026 12:03:32 +0000</lastBuildDate><atom:link href="https://trend-number1.github.io/jp-blog/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml"/><item><title>ウェザーニューズ徹底解説｜予報精度No.1を支える技術と2026年の最新動向</title><link>https://trend-number1.github.io/jp-blog/posts/2026-07-01-uezaniyuzu/</link><pubDate>Wed, 01 Jul 2026 12:03:32 +0000</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-07-01-uezaniyuzu/</guid><description>&lt;p>天気予報を「なんとなく当たるもの」だと思っていませんか。実は、その予報の裏側には世界最大級の気象データ網と、日々進化を続けるAI予測技術が存在します。その中心にいるのが、証券コード4825で知られる&lt;strong>株式会社ウェザーニューズ&lt;/strong>です。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>テクノロジー on トレンドインサイト</title><link>https://trend-number1.github.io/jp-blog/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link><description>Recent content in テクノロジー on トレンドインサイト</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 02 Jul 2026 06:04:09 +0000</lastBuildDate><atom:link href="https://trend-number1.github.io/jp-blog/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml"/><item><title>関門海峡が変わる：海底送電線と第3ルート橋の徹底解説</title><link>https://trend-number1.github.io/jp-blog/posts/2026-07-02-guan-men-hai-xia/</link><pubDate>Thu, 02 Jul 2026 06:04:09 +0000</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-07-02-guan-men-hai-xia/</guid><description>&lt;p>わずか幅数百メートルの海の帯が、いま日本のエネルギーと物流の未来を左右しようとしている。舞台となる&lt;strong>関門海峡&lt;/strong>では、九州と本州を結ぶ2つの巨大インフラ計画が同時に動き出しているのだ。&lt;/p>
+&lt;p>一つは海の底を通る送電線、もう一つは約30年ぶりとなる長大橋。総事業費はそれぞれ数千億円規模にのぼる。なぜ今、この狭い海峡にこれほどの投資が集中するのだろうか。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>要点まとめ&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>九州―本州間に&lt;strong>海底送電線&lt;/strong>を新設。送電容量は約&lt;strong>1.5倍&lt;/strong>に増え、事業費は計&lt;strong>9796億円&lt;/strong>を見込む&lt;/li>
+&lt;li>関門海峡に&lt;strong>54キロメートルのケーブル2本&lt;/strong>を敷設、容量は**原発1基分（計100万キロワット）**に相当&lt;/li>
+&lt;li>第3ルート「&lt;strong>下関北九州道路&lt;/strong>」は延長約8キロ、海峡部の約2.2キロに支間長1キロ超の&lt;strong>つり橋&lt;/strong>を計画&lt;/li>
+&lt;li>既存の関門橋・関門トンネルは開通から半世紀以上が経過し、老朽化と通行止めが深刻化&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h2 id="海底送電線関門海峡に眠る原発1基分の電力ルート">海底送電線：関門海峡に眠る「原発1基分」の電力ルート&lt;/h2>
+&lt;p>全国の電力需給を調整する国の認可法人「電力広域的運営推進機関」は、2025年10月15日、九州と本州を結ぶ&lt;strong>海底送電線&lt;/strong>の整備を正式に決定し、経済産業相に届け出た。これにより九州―本州間の送電容量は約&lt;strong>1.5倍&lt;/strong>となり、やり取りできる電気の量が大幅に増える。&lt;/p>
+&lt;p>計画では、福岡県と山口県を隔てる関門海峡に&lt;strong>54キロメートルのケーブルを2本&lt;/strong>敷設する。その容量は原子力発電所1基分の出力に相当する計&lt;strong>100万キロワット&lt;/strong>。現状は関門海峡上を結ぶ送電線のみで、容量200万～250万キロワット（季節により変動）で運用されている。&lt;/p>
+&lt;p>事業主体には九州電力送配電、中国電力ネットワークなど計3社が選定された。工事費と運転維持費で計&lt;strong>9796億円&lt;/strong>を見込み、国からの交付金のほか、全国の大手電力の送配電子会社が各エリアの需要に応じて負担する。運転開始は&lt;strong>2030年代後半&lt;/strong>を目指す。&lt;/p>
+&lt;p>ここで一つ、多くの人が誤解しやすい点を整理しておきたい。この投資は「電気が足りないから」ではなく、むしろ「&lt;strong>電気が余るから&lt;/strong>」進められている側面が大きいのだ。次のセクションで、その意外な理由を見てみよう。&lt;/p>
+&lt;h2 id="なぜ今なのか太陽光の余剰電力という逆説">なぜ今なのか：太陽光の「余剰電力」という逆説&lt;/h2>
+&lt;p>九州では太陽光発電などの再生可能エネルギーの導入が爆発的に進んでいる。その結果、電気が余る時間帯に発電事業者へ一時停止を指示する「&lt;strong>出力制御&lt;/strong>」が多発するようになった。&lt;/p>
+&lt;p>数字で見ると事態の深刻さがわかる。九州電力送配電は2024年度までに&lt;strong>500回以上&lt;/strong>の出力制御を実施。国の短期見通しでも、九州は発電可能量のうち無駄になる割合が**6%**と全国で最も高い。&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>問題&lt;/strong>：せっかく発電した再エネ電力が、送り先がなく捨てられている&lt;/li>
+&lt;li>&lt;strong>原因&lt;/strong>：九州から本州へ送る送電線の容量が足りない&lt;/li>
+&lt;li>&lt;strong>対策&lt;/strong>：関門海峡に海底ケーブルを新設し、本州へ送電する道を太くする&lt;/li>
+&lt;/ul>
+&lt;p>推進機関の試算では、送電線の増強によって出力制御量を最大で&lt;strong>年24億キロワット時&lt;/strong>減らせるという。これは、地球環境にとっても、消費者にとっても大きな意味を持つ数字だ。&lt;/p>
+&lt;p>ここまでが「電気」の話。だが関門海峡が抱える課題は、電力だけではない。人とモノが行き交う「橋とトンネル」の限界も、静かに深刻化している。&lt;/p>
+&lt;h2 id="第3ルート下関北九州道路約30年ぶりの長大橋">第3ルート「下関北九州道路」：約30年ぶりの長大橋&lt;/h2>
+&lt;p>本州と九州を結ぶ第3のルートとして計画されているのが「&lt;strong>下関北九州道路&lt;/strong>」（下北道路）だ。事業化が決定すれば、明石海峡大橋やしまなみ海道が開通した平成10年代以来、約&lt;strong>30年ぶり&lt;/strong>に本土を長大橋で結ぶビッグプロジェクトが動き出す。&lt;/p>
+&lt;p>ルートは山口県下関市・彦島を起点とし、北九州市小倉北区を終点とする延長約&lt;strong>8キロ&lt;/strong>。このうち海峡部分の約&lt;strong>2.2キロ&lt;/strong>に、支間長（主塔間の長さ）が&lt;strong>1キロを超える&lt;/strong>巨大なつり橋を架ける計画だ。&lt;/p>
+&lt;p>海峡には日本経済を支える国際航路「関門航路」が通り大型船も多く航行するため、新しい橋は海面からの高さが約&lt;strong>60メートル&lt;/strong>、主塔の高さは約200メートル近くになる見込み。総事業費は最大約&lt;strong>3500億円&lt;/strong>を見込んでいる。&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>項目&lt;/th>
+ &lt;th>下関北九州道路（計画）&lt;/th>
+ &lt;th>明石海峡大橋（参考）&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>支間長&lt;/td>
+ &lt;td>1キロ超&lt;/td>
+ &lt;td>1991メートル&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>完成時期&lt;/td>
+ &lt;td>2030年代の可能性&lt;/td>
+ &lt;td>1990年代後半&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>海峡部の延長&lt;/td>
+ &lt;td>約2.2キロ&lt;/td>
+ &lt;td>―&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>位置づけ&lt;/td>
+ &lt;td>本州―九州 第3ルート&lt;/td>
+ &lt;td>本州―四国ルート&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>国は令和元年度予算で調査費を計上し、都市計画の手続きや環境影響評価が最終段階を迎えている。関係自治体は都市計画決定を目指しており、事業化が決まれば過去の実績から2030年代に完成する可能性がある。&lt;/p>
+&lt;h2 id="老朽インフラの限界橋とトンネルが止まると何が起きるか">老朽インフラの限界：橋とトンネルが止まると何が起きるか&lt;/h2>
+&lt;p>なぜ第3ルートがこれほど急がれるのか。理由は既存インフラの深刻な老朽化にある。&lt;strong>関門橋は昭和48年、関門トンネルは昭和33年&lt;/strong>の開通で、いずれも半世紀以上が経過しているのだ。&lt;/p>
+&lt;p>数字が語る現実は厳しい。関門トンネルは自動車道の幅が&lt;strong>7.5メートル&lt;/strong>しかなく、大型トラック同士がすれ違うとぎりぎりの状態。寿命を延ばす補修工事は年間計100日を超える年もあり、その間は全面通行止めとなる。海底トンネルのため、&lt;strong>1日約4800トン&lt;/strong>の海水が湧出し、ポンプで排水し続けている。&lt;/p>
+&lt;p>重量制限も物流の足かせだ。関門トンネルは最大重量35トン、関門橋は44トンの制限があり、重量物輸送では&lt;strong>フェリーで神戸までUターン&lt;/strong>するケースもあるという。&lt;/p>
+&lt;p>そして最も衝撃的なのが、遮断時の経済損失の規模だ。&lt;/p>
+&lt;ul>
+&lt;li>関門橋と関門トンネルが遮断された場合の経済損失は、&lt;strong>平成22年の調査で約14兆円&lt;/strong>&lt;/li>
+&lt;li>近年では&lt;strong>20兆円を超える&lt;/strong>との見方も出ている&lt;/li>
+&lt;li>九州にはTSMC（台湾積体電路製造）など半導体関連企業や自動車生産拠点が集積し、遮断の影響は国内全体に波及しうる&lt;/li>
+&lt;/ul>
+&lt;p>2026年8月10日・11日に北部九州を襲った記録的豪雨では、関門橋の通行止めに関門トンネルでの交通事故が重なり、数十キロにわたる大渋滞が発生した。既存の2ルートだけでは、災害時のリスク分散ができないことが改めて浮き彫りになった。&lt;/p>
+&lt;h2 id="あなたにとっての意味">あなたにとっての意味&lt;/h2>
+&lt;p>これらの計画は、遠い場所の大規模工事の話に聞こえるかもしれない。だが、実は私たちの生活に直結している。&lt;/p>
+&lt;p>海底送電線の事業費は、送電線の利用料という形で電力会社を通じ、家庭や企業の負担増につながる可能性がある。一方で、再エネの無駄が減り、災害時に電力を融通し合う能力が高まるというメリットも大きい。まさに「コストとレジリエンス（強靭さ）」を天秤にかけた国家的な選択なのだ。&lt;/p>
+&lt;p>観光の視点も忘れてはならない。関門海峡では2026年8月13日に&lt;strong>1万8000発&lt;/strong>を打ち上げる関門海峡花火大会が開催予定で、潮風を感じるリゾートホテルも人気を集めている。インフラが強化されれば、この地域の魅力はさらに増していくだろう。&lt;/p>
+&lt;p>狭い海峡に集中する数兆円規模の投資は、九州と本州、そして日本全体の未来をどう変えていくのか。エネルギーの効率化と災害への備え——このバランスをどう取るべきか、あなたはどう考えるだろうか。&lt;/p></description></item><item><title>ウェザーニューズ徹底解説｜予報精度No.1を支える技術と2026年の最新動向</title><link>https://trend-number1.github.io/jp-blog/posts/2026-07-01-uezaniyuzu/</link><pubDate>Wed, 01 Jul 2026 12:03:32 +0000</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-07-01-uezaniyuzu/</guid><description>&lt;p>天気予報を「なんとなく当たるもの」だと思っていませんか。実は、その予報の裏側には世界最大級の気象データ網と、日々進化を続けるAI予測技術が存在します。その中心にいるのが、証券コード4825で知られる&lt;strong>株式会社ウェザーニューズ&lt;/strong>です。&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;strong>要点まとめ&lt;/strong>：ウェザーニューズは「予報精度No.1」を掲げるお天気アプリ「ウェザーニュース」を運営し、個人向けだけでなく陸・海・空のあらゆる産業を気象情報で支えています。2026年は創立40周年を迎え、記念配当の増配やCDP気候変動部門での最高評価「Aリスト」認定など、事業と環境貢献の両面で節目の年となっています。&lt;/p>
 &lt;/blockquote>
