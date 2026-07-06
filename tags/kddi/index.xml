@@ -1,4 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KDDI on トレンドインサイト</title><link>https://trend-number1.github.io/jp-blog/tags/kddi/</link><description>Recent content in KDDI on トレンドインサイト</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 08 Jun 2026 18:04:17 +0000</lastBuildDate><atom:link href="https://trend-number1.github.io/jp-blog/tags/kddi/index.xml" rel="self" type="application/rss+xml"/><item><title>ローソン徹底解説：51%増量から小型スーパー転換まで2026年最新戦略</title><link>https://trend-number1.github.io/jp-blog/posts/2026-06-08-roson/</link><pubDate>Mon, 08 Jun 2026 18:04:17 +0000</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-06-08-roson/</guid><description>&lt;p>「コンビニはもう値段が高い」——そう感じている人にとって、&lt;strong>ローソンの動きはいま最も注目すべきトピック&lt;/strong>かもしれない。2026年に入り、ローソンは「値段そのまま51%増量」キャンペーンを連発し、低価格コンビニ「ローソンストア100」の一部を小型スーパーに転換し、さらに都市部には新業態『Lミニマート』を投入した。コンビニという業態の枠を、ローソン自身が静かに、しかし確実に塗り替えつつある。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KDDI on トレンドインサイト</title><link>https://trend-number1.github.io/jp-blog/tags/kddi/</link><description>Recent content in KDDI on トレンドインサイト</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 06 Jul 2026 18:03:29 +0000</lastBuildDate><atom:link href="https://trend-number1.github.io/jp-blog/tags/kddi/index.xml" rel="self" type="application/rss+xml"/><item><title>KDDI情報漏えい徹底解説 パスワード761万件流出の全貌と今すぐやるべき対策</title><link>https://trend-number1.github.io/jp-blog/posts/2026-07-06-kddi/</link><pubDate>Mon, 06 Jul 2026 18:03:29 +0000</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-07-06-kddi/</guid><description>&lt;p>あなたのメールアドレスとパスワードが、今この瞬間に第三者の手に渡っているかもしれない——。そんな不安が現実になる規模の情報漏えいが、日本の通信大手KDDIで確認されました。&lt;/p>
+&lt;p>KDDIは7月6日、ISP（インターネットサービスプロバイダー）向けメールシステムへの不正アクセスによって、&lt;strong>1223万3087人分のメールアドレス&lt;/strong>の漏えいが確認されたと発表しました。このうち&lt;strong>761万6173人分はパスワードの漏えいも確認&lt;/strong>されています。6月23日の公表時点では「最大1422万件が漏えいした可能性がある」とされていましたが、調査の結果、漏えいの事実が確定しました。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>要点まとめ&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>メールアドレス1223万件、パスワード761万件の漏えいを確認（2026年7月6日発表）&lt;/li>
+&lt;li>対象はISP6社（BIGLOBE、ニフティ、J:COMなど）のメールサービス&lt;/li>
+&lt;li>原因はベンダーも把握していなかった「ゼロデイ脆弱性」の悪用&lt;/li>
+&lt;li>auメール・UQ mobileメール・au one netメールは別設備のため影響なし&lt;/li>
+&lt;li>対象者はパスワードの即時変更が必須&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h2 id="何が起きたのか漏えいの規模と対象サービス">何が起きたのか：漏えいの規模と対象サービス&lt;/h2>
+&lt;p>今回被害を受けたのは、KDDIが開発しISP事業者向けに提供していたメール基盤です。このシステムはアカウント管理、メール送受信、Webメール、データ保存といった機能を一体で提供するもので、複数のプロバイダーが利用していました。&lt;/p>
+&lt;p>6月23日の発表時点で対象とされたのは、以下の&lt;strong>6社のメールサービス&lt;/strong>です。&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>BIGLOBEメール&lt;/strong>（ビッグローブ）&lt;/li>
+&lt;li>&lt;strong>@niftyメール&lt;/strong>（ニフティ）&lt;/li>
+&lt;li>&lt;strong>J:COM NET&lt;/strong>（JCOM）&lt;/li>
+&lt;li>中部テレコミュニケーション&lt;/li>
+&lt;li>KDDIウェブコミュニケーションズ&lt;/li>
+&lt;li>STNet&lt;/li>
+&lt;/ul>
+&lt;p>ここで重要なのは、&lt;strong>KDDI本体のメールサービスは無事&lt;/strong>だという点です。auメール、UQ mobileメール、au one netメールは別の設備で運用されているため、今回の不正アクセスの影響を受けていません。つまり被害の対象は、あくまで上記6社のISPメールを使っているユーザーに限定されます。&lt;/p>
+&lt;p>読売新聞によれば、この漏えいは国内で2014年のベネッセコーポレーション（約3500万件）、2013年のヤフー（約2200万件）に次ぐ規模となる可能性があると指摘されています。日本のセキュリティ史に残る大規模事案であることは間違いありません。&lt;/p>
+&lt;p>では、なぜこれほどの大規模漏えいが起きてしまったのでしょうか。次のセクションで、その技術的な核心に迫ります。&lt;/p>
+&lt;h2 id="原因はゼロデイ脆弱性防ぎようがなかった攻撃">原因は「ゼロデイ脆弱性」：防ぎようがなかった攻撃&lt;/h2>
+&lt;p>今回の不正アクセスの原因は、システムに組み込まれていた&lt;strong>第三者製ソフトウェアの脆弱性&lt;/strong>を突かれたことにあります。しかも、この脆弱性はただの穴ではありませんでした。&lt;/p>
+&lt;p>KDDIが確認した時点で、そのソフトウェアを開発したベンダー自身も把握していなかった、いわゆる&lt;strong>ゼロデイ脆弱性&lt;/strong>だったのです。ゼロデイとは、開発元が問題を認識し修正パッチを用意する「以前」に攻撃が行われることを指します。つまり、防御側が対応する猶予が「ゼロ日」しかない、最も厄介なタイプの攻撃です。&lt;/p>
+&lt;p>不正アクセスは一部のISP事業者で&lt;strong>5月16日から発生&lt;/strong>していました。KDDIが異常を確認したのは6月17日で、同日中にシステムを改修して脆弱性に対処しています。約1カ月にわたって攻撃が続いていたことになります。&lt;/p>
+&lt;p>&lt;strong>よくある誤解を解いておきましょう。&lt;/strong> 「大企業なのにセキュリティが甘かったのでは」と思う方もいるかもしれません。しかしゼロデイ脆弱性は、世界中のどんな組織でも事前に完全に防ぐことは極めて困難です。むしろ問題は、検知後にいかに素早く被害を封じ込め、透明性を持って報告できるかにあります。&lt;/p>
+&lt;h2 id="kddiの再発防止策aiも投入した多層防御">KDDIの再発防止策：AIも投入した多層防御&lt;/h2>
+&lt;p>KDDIは被害確認後、複数の対策を矢継ぎ早に実施しています。時系列で整理すると次の通りです。&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>日付&lt;/th>
+ &lt;th>対応内容&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>5月16日&lt;/td>
+ &lt;td>一部ISPで不正アクセスが発生（後に判明）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>6月17日&lt;/td>
+ &lt;td>不正アクセスを確認、同日システムを改修&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>6月21日&lt;/td>
+ &lt;td>外部通信を制御する全サーバーにEDRを導入完了&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>6月23日&lt;/td>
+ &lt;td>第三者機関のフォレンジック調査で他に不審な痕跡なしと確認、事態を公表&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>7月6日&lt;/td>
+ &lt;td>漏えい件数を確定、総務省に報告書を提出&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>EDR（Endpoint Detection and Response）は、サーバーやPC上の不審な挙動を検知・対処するツールです。KDDIはこれを外部通信を制御する全サーバーに導入し、監視体制を強化しました。&lt;/p>
+&lt;p>さらに注目すべきは、今後の対策に&lt;strong>AIを活用する&lt;/strong>方針を打ち出した点です。KDDIは問題のソフトウェアの設計書とプログラムをAIで分析し、潜在的な問題がないか網羅的に洗い出すとしています。加えて、ISP事業者とともにセキュリティ強度の高い通信規格への移行も早期に進める考えです。&lt;/p>
+&lt;p>総務省は6月24日、電気通信事業法に基づく報告をKDDIに求めており、同社は7月6日に報告書を提出しました。個人情報保護委員会にも事態が報告されています。企業としての説明責任を果たそうとする姿勢がうかがえます。&lt;/p>
+&lt;h2 id="あなたにとっての意味今すぐやるべき3つの対策">あなたにとっての意味：今すぐやるべき3つの対策&lt;/h2>
+&lt;p>「自分のアカウントは大丈夫だろうか」——対象サービスの利用者にとって、これが最大の関心事でしょう。KDDIはISP事業者と連携し、対象者のパスワード変更を進めています。日常的にメールを使う利用者の多くはすでに変更を済ませており、残る利用者もISP事業者による強制変更で完了する見込みです。&lt;/p>
+&lt;p>とはいえ、受け身でいるのは危険です。今すぐ実践すべき対策を挙げます。&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>対象ISPのメールパスワードを直ちに変更する&lt;/strong> — 特にBIGLOBE、@nifty、J:COMなどを利用している方は最優先で対応を。&lt;/li>
+&lt;li>&lt;strong>同じパスワードを使い回している他サービスもすべて変更する&lt;/strong> — パスワードが流出した以上、他サービスへの「パスワードリスト攻撃」のリスクが高まります。&lt;/li>
+&lt;li>&lt;strong>不審なメールやログイン通知に警戒する&lt;/strong> — メールボックスにログイン可能な状態だったとみられ、なりすましメールが送られる恐れがあります。&lt;/li>
+&lt;/ol>
+&lt;p>今回の事案は、通信業界全体が抱えるリスクの氷山の一角でもあります。日本経済新聞によれば、2025年に上場企業とその子会社が公表した個人情報の漏えい・紛失事故は180件発生し、被害者は前年比で約2倍の3000万人超に達しました。その原因の6割が不正アクセスやウイルス感染によるものです。2023年のNTT西日本（約900万件）、2025年のIIJ（メール関連など約400万人分）など、大手でも被害は後を絶ちません。&lt;/p>
+&lt;p>情報漏えいはもはや「一部の油断した企業の問題」ではなく、デジタル社会に生きる全員が向き合うべき現実です。あなたのパスワードは、最後にいつ変更しましたか？そして、複数のサービスで同じものを使い回してはいませんか——この機会に、自分のデジタル防衛を見直してみてはいかがでしょうか。&lt;/p></description></item><item><title>ローソン徹底解説：51%増量から小型スーパー転換まで2026年最新戦略</title><link>https://trend-number1.github.io/jp-blog/posts/2026-06-08-roson/</link><pubDate>Mon, 08 Jun 2026 18:04:17 +0000</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-06-08-roson/</guid><description>&lt;p>「コンビニはもう値段が高い」——そう感じている人にとって、&lt;strong>ローソンの動きはいま最も注目すべきトピック&lt;/strong>かもしれない。2026年に入り、ローソンは「値段そのまま51%増量」キャンペーンを連発し、低価格コンビニ「ローソンストア100」の一部を小型スーパーに転換し、さらに都市部には新業態『Lミニマート』を投入した。コンビニという業態の枠を、ローソン自身が静かに、しかし確実に塗り替えつつある。&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;strong>要点まとめ&lt;/strong>&lt;/p>
 &lt;ul>
