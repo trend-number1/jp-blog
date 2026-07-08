@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ESG投資 on トレンドインサイト</title><link>https://trend-number1.github.io/jp-blog/tags/esg%E6%8A%95%E8%B3%87/</link><description>Recent content in ESG投資 on トレンドインサイト</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 09 Jul 2026 00:03:33 +0000</lastBuildDate><atom:link href="https://trend-number1.github.io/jp-blog/tags/esg%E6%8A%95%E8%B3%87/index.xml" rel="self" type="application/rss+xml"/><item><title>FTSEとは？徹底解説 — 世界の株価指数とESG投資の完全ガイド</title><link>https://trend-number1.github.io/jp-blog/posts/2026-07-09-ftse/</link><pubDate>Thu, 09 Jul 2026 00:03:33 +0000</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-07-09-ftse/</guid><description>&lt;p>「FTSE」という4文字のアルファベットを、経済ニュースや企業のプレスリリースで見かけたことはありませんか？&lt;/p>
+&lt;p>読み方は「フッツィー」。実はこの指数への選定が、いま日本企業の株価やブランド価値を左右する重要な指標になりつつあります。2026年7月だけでも、日本ゼオン、EMシステムズ、宝ホールディングスなど、数多くの企業が「FTSE JPX Blossom Japan Index」への構成銘柄選定を相次いで発表しました。&lt;/p>
+&lt;p>なぜ企業はこぞってこの選定をアピールするのでしょうか。本記事では、FTSEの基礎から、いま注目を集めるESG投資指数としての側面まで、投資初心者にもわかるように徹底解説します。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>要点まとめ&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>FTSEは英国発祥の世界的な株価指数シリーズで、「FTSE 100」は英国を代表する100社の指数&lt;/li>
+&lt;li>FTSE指数は3月・6月・9月・12月の年4回、時価総額に基づいて構成銘柄が見直される&lt;/li>
+&lt;li>近年はESG投資指数「FTSE Blossom Japan Index」への選定が日本企業の関心を集めている&lt;/li>
+&lt;li>指数への選定は、企業のESG評価の高さを外部から証明する「お墨付き」となる&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h2 id="ftseとは世界を代表する株価指数シリーズ">FTSEとは？世界を代表する株価指数シリーズ&lt;/h2>
+&lt;p>FTSEは、英国のロンドン証券取引所グループ傘下の指数算出会社「FTSE Russell（フッツィー・ラッセル）」が算出する株価指数シリーズの総称です。&lt;/p>
+&lt;p>最も有名なのが &lt;strong>FTSE 100&lt;/strong> でしょう。これは英国で時価総額が最大の100社をまとめた指数で、英国経済の体温計とも言える存在です。日本の日経平均株価やTOPIXに相当するものと考えるとイメージしやすいはずです。&lt;/p>
+&lt;p>FTSEには規模ごとに複数の指数があります。整理すると次のようになります。&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>FTSE 100&lt;/strong>：時価総額上位100社&lt;/li>
+&lt;li>&lt;strong>FTSE 250&lt;/strong>：101位から350位までの企業&lt;/li>
+&lt;li>&lt;strong>FTSE 350&lt;/strong>：上位350社（FTSE 100とFTSE 250を合わせたもの）&lt;/li>
+&lt;li>&lt;strong>FTSE All-Share&lt;/strong>：ロンドン証券取引所メイン市場の全上場株&lt;/li>
+&lt;/ul>
+&lt;p>FTSE 100は英国大手企業で構成されるため、グローバル企業の動向を色濃く反映します。たとえば2026年7月には、石油大手 &lt;strong>シェル(Shell)&lt;/strong> の好調な生産見通しがエネルギー株を押し上げ、加えてホルムズ海峡の緊張がFTSE 100の上昇要因になったと報じられました。中東情勢のような地政学リスクが、英国指数を通じて世界の投資家に波及するわけです。&lt;/p>
+&lt;p>では、この指数の中身はどのように決まるのでしょうか。次の章で見ていきましょう。&lt;/p>
+&lt;h2 id="ftse指数の仕組み--年4回の入れ替えルール">FTSE指数の仕組み — 年4回の入れ替えルール&lt;/h2>
+&lt;p>FTSEの大きな特徴は、構成銘柄が固定ではなく、定期的に入れ替わる点にあります。&lt;/p>
+&lt;p>FTSE UK指数は &lt;strong>3月・6月・9月・12月の年4回&lt;/strong> 見直されます。基準となるのは各企業の時価総額（会社の価値）で、順位に応じて機械的に出入りが決まる仕組みです。&lt;/p>
+&lt;p>具体的なルールはシンプルです。&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>指数&lt;/th>
+ &lt;th>追加される条件&lt;/th>
+ &lt;th>除外される条件&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>FTSE 100&lt;/td>
+ &lt;td>順位が90位以上に上昇&lt;/td>
+ &lt;td>順位が111位以下に下落&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>FTSE 250&lt;/td>
+ &lt;td>順位が325位以上に上昇&lt;/td>
+ &lt;td>順位が376位以下に下落&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>この「90位で追加、111位で除外」という緩衝を設けているのがポイントです。順位がわずかに変動するたびに銘柄が頻繁に入れ替わるのを防ぎ、指数の安定性を保っているのです。&lt;/p>
+&lt;p>ここで初心者がよく抱く誤解を解いておきましょう。「FTSE 100そのものを買いたい」と思っても、指数を直接購入することはできません。代わりに、指数の値動きに連動することを目指す &lt;strong>トラッカー(tracker)&lt;/strong> と呼ばれる投資商品を購入します。具体的にはインデックスファンドやETF（上場投資信託）がこれにあたります。&lt;/p>
+&lt;p>つまり、あなたがFTSE 100連動のETFを1つ買えば、実質的に英国の主要100社に分散投資したのと同じ効果が得られる、というわけです。この手軽さこそがインデックス投資が世界的に普及した理由の一つです。&lt;/p>
+&lt;p>さて、ここまでは伝統的な「規模」で選ぶ指数の話でした。しかし、いま日本で最も話題になっているFTSEは、まったく別の基準で選ばれる指数なのです。&lt;/p>
+&lt;h2 id="日本企業が熱視線--ftse-blossom-japan-indexとesg投資">日本企業が熱視線 — FTSE Blossom Japan IndexとESG投資&lt;/h2>
+&lt;p>2026年7月の日本の経済ニュースを賑わせているのが、&lt;strong>FTSE JPX Blossom Japan Index&lt;/strong> をはじめとするESG投資指数です。&lt;/p></description></item></channel></rss>
