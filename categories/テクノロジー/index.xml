@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>テクノロジー on トレンドインサイト</title><link>https://trend-number1.github.io/jp-blog/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link><description>Recent content in テクノロジー on トレンドインサイト</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 15 Jul 2026 18:03:51 +0000</lastBuildDate><atom:link href="https://trend-number1.github.io/jp-blog/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml"/><item><title>LINE VOOM終了へ 9月30日サービス終了の全内容とバックアップ完全ガイド</title><link>https://trend-number1.github.io/jp-blog/posts/2026-07-15-line-voom/</link><pubDate>Wed, 15 Jul 2026 18:03:51 +0000</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-07-15-line-voom/</guid><description>&lt;p>&lt;strong>LINEの中にあった動画サービスを、あなたは最後にいつ開いただろうか。&lt;/strong> 多くのユーザーが「そういえば、あったな」と感じるかもしれない。その「LINE VOOM」が、ついに幕を閉じる。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>テクノロジー on トレンドインサイト</title><link>https://trend-number1.github.io/jp-blog/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link><description>Recent content in テクノロジー on トレンドインサイト</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 16 Jul 2026 12:03:38 +0000</lastBuildDate><atom:link href="https://trend-number1.github.io/jp-blog/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml"/><item><title>LINE有料化の真相を徹底解説 1億人インフラが月額課金へ舵を切る理由</title><link>https://trend-number1.github.io/jp-blog/posts/2026-07-16-line-you-liao-hua/</link><pubDate>Thu, 16 Jul 2026 12:03:38 +0000</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-07-16-line-you-liao-hua/</guid><description>&lt;p>「無料でずっと使えるアプリ」——多くの日本人がLINEに抱いてきたこのイメージが、いま静かに、しかし確実に変わろうとしています。&lt;/p>
+&lt;p>国内月間利用者が&lt;strong>1億人を突破&lt;/strong>したLINEが、日本上陸15周年を迎えた2026年、便利機能を有料サブスクへと寄せる動きを鮮明にしているのです。SNSでは「有料化」というキーワードが飛び交い、不満と戸惑いの声も少なくありません。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>要点まとめ&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>LINEの新機能4つ（メッセージ編集・プレミアムブロック・メッセージ予約・通話レコーディング）は&lt;strong>2026年秋以降にLYPプレミアム（有料）で提供&lt;/strong>&lt;/li>
+&lt;li>フルプランは&lt;strong>月額650円&lt;/strong>、7月から&lt;strong>月額290円のライトプラン&lt;/strong>も登場&lt;/li>
+&lt;li>基本のメッセージ送受信・音声/ビデオ通話は引き続き無料&lt;/li>
+&lt;li>背景には主力の広告事業の伸び悩みと、PayPay連携による収益化戦略がある&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>この記事では、LINE有料化の全体像を公式発表と報道をもとに整理し、「あなたの毎日のLINEはどう変わるのか」をはっきりお伝えします。&lt;/p>
+&lt;h2 id="line有料化で何が有料になるのか">LINE有料化で「何が」有料になるのか&lt;/h2>
+&lt;p>まず落ち着いてほしいのは、今回のLINE有料化は&lt;strong>無料利用を完全に封じるものではない&lt;/strong>という点です。&lt;/p>
+&lt;p>LINEヤフーは2026年7月、LINEに追加する新機能として次の4つを発表しました。いずれも長年ユーザーから要望が多かった機能です。&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>新機能&lt;/th>
+ &lt;th>内容&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>メッセージ編集&lt;/strong>&lt;/td>
+ &lt;td>送信後15分以内であればメッセージを編集可能（「編集済み」と表示）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>プレミアムブロック&lt;/strong>&lt;/td>
+ &lt;td>ブロックした相手の「友だちリスト」からも自分が消える&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>メッセージ予約&lt;/strong>&lt;/td>
+ &lt;td>送りたい日時を指定してメッセージを送信&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>通話レコーディング&lt;/strong>&lt;/td>
+ &lt;td>LINE通話を録音し、文字起こし・保存が可能&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>ポイントは、これら4機能がすべて**「LYPプレミアム」という月額制サブスク向けの有料機能**として位置づけられていることです。逆に言えば、毎日「何してる？」「ご飯食べた？」とやり取りする程度の使い方なら、これまでと何も変わりません。基本的なメッセージの送受信、音声通話、ビデオ通話は一切対象外です。&lt;/p>
+&lt;p>つまり有料化の正体は「値上げ」ではなく、&lt;strong>一部の高度な機能を有料プランに束ねる&lt;/strong>という構造の転換なのです。では、その料金はいくらなのでしょうか。&lt;/p>
+&lt;h2 id="lypプレミアムの料金プランと提供時期">LYPプレミアムの料金プランと提供時期&lt;/h2>
+&lt;p>新機能を使うには、有料サブスク「LYPプレミアム」への加入が前提となります。これはLINE・ヤフー・PayPayの特典をまとめた月額制サービスです。&lt;/p>
+&lt;p>Impress Watchの報道によると、新機能に対応するのは上位の**「フルプラン」で月額650円**。あわせて、より安価な**「ライトプラン」月額290円**を用意する料金体系が示されました。&lt;/p>
+&lt;p>注意したいのは、LYPプレミアムは&lt;strong>登録経路によって表示金額が異なる&lt;/strong>という点です。これまでもWeb版が月額508円、アプリ内課金版が月額650円といった差がありました。どのプラン・どの経路で新機能が使えるのかは、正式提供時の公式案内を必ず確認しましょう。&lt;/p>
+&lt;p>提供スケジュールは2段階で進みます。&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>2026年8月以降&lt;/strong>：LINEアプリの実験メニュー「LINEラボ」で新機能を順次プレリリース（先行公開）&lt;/li>
+&lt;li>&lt;strong>2026年秋以降&lt;/strong>：LYPプレミアムの特典として順次提供（有料サブスク加入が前提）&lt;/li>
+&lt;/ol>
+&lt;p>「秋」という表現にとどまり、具体的な月日は執筆時点で公式に確定していません。導入は順次のため、機能ごとにタイミングがずれる可能性もあります。「LINE 新機能 いつから」と気になっている方は、まず8月以降のLINEラボでの先行公開を目安にすると良いでしょう。&lt;/p>
+&lt;p>ここまで読んで、「なぜ無料で儲けていたはずのLINEが、今さら課金を急ぐのか？」という疑問が浮かんだのではないでしょうか。その答えは、LINEの経営数字にあります。&lt;/p>
+&lt;h2 id="なぜ今無料アプリが有料化を急ぐのか">なぜ今、無料アプリが有料化を急ぐのか&lt;/h2>
+&lt;p>背景にあるのは、&lt;strong>主力だった広告事業の成長鈍化&lt;/strong>です。&lt;/p>
+&lt;p>2026年5月に開示されたFY25（2025年度）通期決算によれば、広告を含むメディア事業の売上収益は&lt;strong>7351億円とほぼ横ばい（前年比+0.4%）&lt;strong>にとどまり、調整後EBITDA（正常な収益力）は&lt;/strong>2.2%の減益&lt;/strong>となりました。&lt;/p>
+&lt;p>内訳を見ると、検索広告が前年比10%超の減収となる一方、アカウント広告が15%超の増収でこれを補う形です。全社としては増収（売上収益2.0兆円、前年比+6.2%）を確保できましたが、それはPayPayを含む戦略事業が**+30.6%**と大きく伸びたためでした。&lt;/p>
+&lt;p>ここに、LINEヤフーの本音が透けて見えます。&lt;strong>広告だけに頼る収益モデルには限界がある&lt;/strong>——だからこそ、1億人という広大な接点を、持続的な収益へと変えていく必要があるのです。&lt;/p>
+&lt;p>LINEヤフー上級執行役員の舛田淳氏は、15周年イベントで「1億人それぞれの課題が同じわけではない」と語り、細かなニーズには有料プランで対応していく方針を示しました。LINE公式アカウントは127万以上、自治体アカウントも1500以上、スタンプクリエイターは750万人以上——この巨大な「つながり」こそがLINEの価値だと、繰り返し強調したのです。&lt;/p>
+&lt;p>そしてもう一つの大きな柱が、2026年夏に始まる&lt;strong>LINEとPayPayのアカウント連携&lt;/strong>です。国内1億人規模のLINEユーザーと7400万人以上のPayPayユーザーという、国内最大級の二つの経済圏がつながることになります。&lt;/p>
+&lt;h2 id="lypプレミアムは本当に伸びているのか">LYPプレミアムは本当に伸びているのか&lt;/h2>
+&lt;p>有料化戦略の成否を占うカギは、LYPプレミアムの会員数です。ここに興味深い数字があります。&lt;/p>
+&lt;p>舛田氏によれば、LYPプレミアムの会員数は&lt;strong>2,549万人&lt;/strong>。このうち、ソフトバンク/ワイモバイルの特典以外の「直接会員」は&lt;strong>666万人&lt;/strong>です。1月時点では551万人でしたが、2月にスタートしたNetflixセットの「LYPプレミアム with Netflix」などの効果もあり、&lt;strong>半年で100万人以上伸びている&lt;/strong>というのです。&lt;/p>
+&lt;p>会社側は直接会員について「早期に1,000万人以上、将来は誰もが使う日本最大のサブスクに育てたい」と語っています。7月投入の290円ライトプランは、まさにこの入り口を広げるための一手と言えるでしょう。&lt;/p>
+&lt;p>ここで、よくある誤解を解いておきます。「送信取り消しまで有料になった」という声もありますが、有料化はあくまで&lt;strong>新たに追加される高度な機能や、より快適な体験を求める層に向けたもの&lt;/strong>です。無料ユーザーが今すぐ締め出されるわけではありません。&lt;/p>
+&lt;p>&lt;strong>あなたにとっての意味&lt;/strong>を整理すると、こうなります。日常会話だけなら無料のまま。一方で、仕事でLINEを多用し、メッセージの編集や通話の文字起こしに価値を感じるなら、月額290〜650円は検討に値する投資かもしれません。まずは秋の正式提供を待ち、自分の使い方に本当に必要な機能かを見極めてから判断しても遅くはないでしょう。&lt;/p>
+&lt;h2 id="まとめ無料の時代から選べる時代へ">まとめ：無料の時代から「選べる時代」へ&lt;/h2>
+&lt;p>LINEの有料化は、単なる値上げではありません。1億人が支える国民的インフラが、広告依存から脱し、&lt;strong>ユーザー一人ひとりのニーズに応える「選べるサービス」へ&lt;/strong>と進化する転換点です。&lt;/p>
+&lt;p>基本機能は無料のまま、深く使いたい人には有料の選択肢を——この線引きが今後どこまで受け入れられるかが、LINEヤフーの収益化戦略の分かれ目になります。&lt;/p>
+&lt;p>さて、あなたに問いかけたいことがあります。もし「メッセージ編集」や「通話レコーディング」が月額290円で使えるとしたら、あなたは加入しますか？それとも、無料の範囲で使い続けますか？あなたの答えが、これからのアプリのあり方を決めていくのかもしれません。&lt;/p></description></item><item><title>LINE VOOM終了へ 9月30日サービス終了の全内容とバックアップ完全ガイド</title><link>https://trend-number1.github.io/jp-blog/posts/2026-07-15-line-voom/</link><pubDate>Wed, 15 Jul 2026 18:03:51 +0000</pubDate><guid>https://trend-number1.github.io/jp-blog/posts/2026-07-15-line-voom/</guid><description>&lt;p>&lt;strong>LINEの中にあった動画サービスを、あなたは最後にいつ開いただろうか。&lt;/strong> 多くのユーザーが「そういえば、あったな」と感じるかもしれない。その「LINE VOOM」が、ついに幕を閉じる。&lt;/p>
 &lt;p>LINEヤフーは2026年7月15日、ショート動画コンテンツ「LINE VOOM」を&lt;strong>2026年9月30日（水）午前11時ごろ&lt;/strong>をもって終了すると発表した。2021年冬のリリースから約5年での終了となる。&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;strong>要点まとめ&lt;/strong>&lt;/p>
